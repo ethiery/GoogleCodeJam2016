@@ -1,3 +1,12 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+# Google Code Jam 2016
+# Qualifications
+# Exercise 3
+#
+# @author Etienne THIERY
+
 # It seems like any non null natural number as a multiple that is composed only of one and zero
 # http://math.stackexchange.com/questions/83932/a-natural-number-multiplied-by-some-integer-results-in-a-number-with-only-ones-a
 # by multiplying this number by 2,3,..,9, you prove that Beatrix Trotter 

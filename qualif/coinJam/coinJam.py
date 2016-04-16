@@ -1,4 +1,11 @@
-import sys
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+# Google Code Jam 2016
+# Qualifications
+# Exercise 3
+#
+# @author Etienne THIERY
 
 # A solution is to generate all the binary strings of N characters
 # starting with a 1 and ending by a 1, and to look for coinJam among them.

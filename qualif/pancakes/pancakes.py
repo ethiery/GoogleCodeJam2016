@@ -1,3 +1,12 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+# Google Code Jam 2016
+# Qualifications
+# Exercise 2
+#
+# @author Etienne THIERY
+
 # In the end, the number of operations needed
 # is just the number of change of "same side up adjacent pancakes" groups 
 # in the stack,

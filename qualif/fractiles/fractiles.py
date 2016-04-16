@@ -1,3 +1,15 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+# Google Code Jam 2016
+# Qualifications
+# Exercise 4
+#
+# @author Etienne THIERY
+
+# So that was my submission, but it was wrong and I have not had the
+# time to correct it yet !
+
 def readyToPrint(a):
 	'''
 	adds one because python arrays indices start from 0
